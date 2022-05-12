@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1615314692 source:/home/debora/Documentos/POO/rpg/rpg/main.cpp
+	<iostream>
+	"Character.h"
+	"Knight.h"
+
+1615074653 source:/home/debora/Documentos/POO/rpg/rpg/src/Guerreiro.cpp
+	"Guerreiro.h"
+
+1615074653 /home/debora/Documentos/POO/rpg/rpg/include/Guerreiro.h
+
+1615318270 source:/home/debora/Documentos/POO/rpg/rpg/src/Knight.cpp
+	<iostream>
+	<cstring>
+	"Knight.h"
+
+1615318263 /home/debora/Documentos/POO/rpg/rpg/include/Knight.h
+	"Character.h"
+
+1615324012 source:/home/debora/Documentos/POO/rpg/rpg/src/Character.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<cstring>
+	<time.h>
+	<stdlib.h>
+	"Character.h"
+	"Knight.h"
+	"Druid.h"
+	"Thief.h"
+
+1615313110 /home/debora/Documentos/POO/rpg/rpg/include/Character.h
+	<iostream>
+	<string>
+
+1615227036 source:/home/debora/Documentos/POO/rpg/rpg/src/Druid.cpp
+	<iostream>
+	"Druid.h"
+
+1615227171 /home/debora/Documentos/POO/rpg/rpg/include/Druid.h
+	"Character.h"
+
+1615323961 source:/home/debora/Documentos/POO/rpg/rpg/src/Thief.cpp
+	<iostream>
+	"Thief.h"
+
+1615323868 /home/debora/Documentos/POO/rpg/rpg/include/Thief.h
+
